@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+            
+	</head>
+
+	<body>
+		<h1>Hola mundo desde django</h1>
+		<h2>Con templates</h2>
+	</body>
+</html>
